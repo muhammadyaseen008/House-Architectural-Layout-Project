@@ -1,4 +1,8 @@
-streamlit==1.44.1
-numpy
 plotly
 kaleido
+streamlit
+numpy
+
+# Required for image export
+pyppeteer
+pyee
